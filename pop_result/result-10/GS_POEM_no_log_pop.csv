@@ -1,0 +1,8 @@
+CTR Mean in 5 Run,Alg,Confidence Interval 0.95%
+0.014532852,POEM no log (variance_penalisation_strength = 0.0),"(0.01441462405535396,0.014651714849259645)"
+0.014461647,POEM no log (variance_penalisation_strength = 0.05),"(0.014343745085873391,0.014580184059409973)"
+0.014203439,POEM no log (variance_penalisation_strength = 0.1),"(0.01408657125816339,0.014320942702173434)"
+0.014016331,POEM no log (variance_penalisation_strength = 0.25),"(0.013900257228204762,0.014133040737682512)"
+0.013746831,POEM no log (variance_penalisation_strength = 0.5),"(0.013631870996861683,0.013862426247919335)"
+0.013917037,POEM no log (variance_penalisation_strength = 1.0),"(0.013801402331821113,0.014033307498945491)"
+0.014160013,POEM no log (variance_penalisation_strength = 2.0),"(0.0140433783397261,0.014277282339713149)"
