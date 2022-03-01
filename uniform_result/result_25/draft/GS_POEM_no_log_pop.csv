@@ -1,0 +1,2 @@
+AgentStats.Q0_025,AgentStats.Q0_500,AgentStats.Q0_975,Alg,Samples
+0.007565812513696133,0.008705492348668634,0.009953221562197134,POEM no log (variance_penalisation_strength = 0.05),100

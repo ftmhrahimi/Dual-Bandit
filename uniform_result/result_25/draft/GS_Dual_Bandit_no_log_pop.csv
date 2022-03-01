@@ -1,0 +1,2 @@
+AgentStats.Q0_025,AgentStats.Q0_500,AgentStats.Q0_975,Alg,Samples
+0.010618383494399523,0.011971527159962716,0.013433588031381505,Dual Bandit no log (alpha = 0.85),100
